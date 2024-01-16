@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/darktoolz"];
+const statusMessages = ["testing"];
 
 
 let currentIndex = 0;
